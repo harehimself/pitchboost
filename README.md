@@ -31,6 +31,7 @@ https://pitchboo.st
 - [Benefits](#benefits)
 - [How It Compares](#how-it-compares)
 - [License](#license)
+<br>
 
 ## Features
 - Interactive and engaging presentation interface with multimedia support (videos, animations, diagrams)
